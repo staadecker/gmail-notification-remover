@@ -12,8 +12,8 @@ and I'll publish it to the Firefox Add-Ons Store. Alternatively, you can install
 
 1. Download the files
 
-2. Go to [about:debugging](about:debugging)
-
+2. Go to the page `about:debugging` in Firefox.
+   
 3. On the *This Firefox* tab, click *Load Temporary Add-on*.
 
 4. Select the `manifest.json` file you downloaded.
