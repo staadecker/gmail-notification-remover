@@ -1,6 +1,6 @@
 // Function that corrects the title
 function get_no_notification_title(title) {
-  return title.replace(/\([^()]*\)/, "") // Removes anything between parentheses
+  return title.replace(/\([0-9]+\)/, "") // Removes numbers between parentheses
 }
 
 // Set the title
