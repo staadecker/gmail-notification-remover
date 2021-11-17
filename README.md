@@ -12,4 +12,4 @@ and I'll publish it to the Firefox Add-Ons Store.
 
 The extension only runs on `mail.google.com` webpages, and
 the ONLY thing it does is modify the browser title. 
-No data is ever collected or stored. You can read the code yourself, it's only 20 lines.
+No data is ever collected or stored. You can read [the code](remove_notifications.js) yourself, it's only 20 lines.
