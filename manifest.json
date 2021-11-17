@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Gmail Hide Notifications",
   "version": "1.0",
-  "description": "Removes the number of unread emails from the browser tab",
+  "description": "Removes Gmail notifications to help me avoid distractions",
   "content_scripts": [
     {
       "matches": ["*://*.mail.google.com/*"],

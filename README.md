@@ -5,8 +5,18 @@
 This simple Firefox extension helps me avoid distractions by removing Gmail notifications
 from the browser tab title. I built this after learning about my behaviours and habits from the book [*Tiny Habits* by BJ Fogg](https://tinyhabits.com/book/).
 
-If you are interested in using this, shoot me a message at [machstg@gmail.com](mailto:machstg@gmail.com) 
-and I'll publish it to the Firefox Add-Ons Store.
+## Installation
+
+If you are interested in using this extension, email me at [machstg@gmail.com](mailto:machstg@gmail.com)
+and I'll publish it to the Firefox Add-Ons Store. Alternatively, you can install it for yourself as follows.
+
+1. Download the files
+
+2. Go to [about:debugging](about:debugging)
+
+3. On the *This Firefox* tab, click *Load Temporary Add-on*.
+
+4. Select the `manifest.json` file you downloaded.
 
 ## Privacy
 
