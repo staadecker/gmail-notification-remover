@@ -5,18 +5,7 @@
 This simple Firefox extension helps me avoid distractions by removing Gmail notifications
 from the browser tab title. I built this after learning about my behaviours and habits from the book [*Tiny Habits* by BJ Fogg](https://tinyhabits.com/book/).
 
-## Installation
-
-If you are interested in using this extension, email me at [machstg@gmail.com](mailto:machstg@gmail.com)
-and I'll publish it to the Firefox Add-Ons Store. Alternatively, you can install it for yourself as follows.
-
-1. Download the files
-
-2. Go to the page `about:debugging` in Firefox.
-   
-3. On the *This Firefox* tab, click *Load Temporary Add-on*.
-
-4. Select the `manifest.json` file you downloaded.
+Install the extension from the [Firefox Store](https://addons.mozilla.org/en-CA/firefox/addon/gmail-hide-notifications/).
 
 ## Privacy
 
